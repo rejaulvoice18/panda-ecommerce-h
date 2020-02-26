@@ -1,0 +1,80 @@
+.bg-color{
+    padding:20px 30px;
+    border-radius: 30px;
+}
+.container{
+    margin-bottom:40px;
+}
+.price-color{
+    color:#FF136F;
+}
+.buy-now-button{
+    border:none;
+    color:white;
+    padding: 7px 20px;
+    border-radius:7px;
+    background-color:black;
+}
+.carousel-indicators li{
+    background-color: orangered;
+}
+.see-all-color{
+    color:orange;
+}
+.card{
+    border:none;
+    box-shadow:5px 5px 20px rgb(207, 206, 206);
+    border-radius:10px;
+}
+.categorie-title{
+    text-align:center;
+    border-bottom: 7px solid orange;
+    width:11%;
+    padding:10px 0px;
+    margin-left:45%;
+}
+.cat-1, .cat-2, .cat-3{
+    box-shadow:5px 5px 20px rgb(220, 220, 220);
+    padding:30px 30px;
+    border-radius:10px;
+}
+.pic2-in-one{
+    margin-top:50px;
+}
+.cat-1{
+    margin:0;
+}
+.cat-3{
+    margin-top:20px;
+}
+.pic-title{
+    text-align:center;
+    padding-top:10px;
+}
+/*===Footer start here===*/
+
+input[type=text] {
+  width: 130px;
+  -webkit-transition: width 0.4s ease-in-out;
+  transition: width 0.4s ease-in-out;
+}
+
+/* When the input field gets focus, change its width to 100% */
+input[type=text]:focus {
+  width: 100%;
+}
+.find-product-title{
+    color:orangered;
+    padding:10px 0;
+}
+.footer-back{
+    background-color:rgb(245, 241, 241);
+}
+input{
+    margin-bottom:20px;
+}
+.copyright{
+    color: orangered;
+    font-size:20px;
+    margin-top:30px
+}
